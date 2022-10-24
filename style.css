@@ -655,7 +655,10 @@ h1.entry-title {
     cursor: pointer;
     transition: all .5s ease;
 }
-
+.image-change {
+    width: 1599px;
+    height: 1200px;
+}
 .category-filter.hide {
     opacity: 0;
     transform: translateY(70px);   
@@ -1773,4 +1776,7 @@ p.contact-submit-holder {
         margin-bottom: 20px; 
     }
 
+}
+.interview {
+    color:#F37b83;
 }
